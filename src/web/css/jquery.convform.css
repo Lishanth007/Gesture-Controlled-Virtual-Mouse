@@ -140,13 +140,13 @@ div.conv-form-wrapper  div#messages div.message {
     word-wrap: break-word;
 }
 div.conv-form-wrapper  div#messages div.message.to {
-    background: linear-gradient(to right, #388eff 29%, #70aeff 81%);
+    background: linear-gradient(to right, #9e0dd8 29%, #791697 81%);
     color: #fff;
     float: left;
     border-top-left-radius: 0;
 }
 div.conv-form-wrapper div#messages div.message.from {
-    background: linear-gradient(to left, #38ff84 0%, #98fbbe 100%);
+    background: linear-gradient(to left, #791697 0%, #b109f3 100%);
     color: #000000;
     border-top-right-radius: 0;
 }
@@ -190,12 +190,12 @@ div.convFormDynamic button.submit {
 
 
 div.convFormDynamic button.submit:hover {
-    background: #06b79a;
+    background: #2f14c9;
     color: #fff;
 }
 
 button.submit.glow {
-    box-shadow: 0 0 10px 5px rgba(6, 197, 166, 0.4);
+    box-shadow: 0 0 10px 5px rgba(224, 231, 230, 0.4);
 }
 .no-border {
     border: none !important;
@@ -238,7 +238,7 @@ span.clear {
 
 body {
     overflow: hidden;
-    background: #1a1a2e;
+    background: #00000f;
 }
 
 
@@ -263,42 +263,42 @@ body {
 @-webkit-keyframes colorchange {
   0% {
 
-    color: lightblue;
+    color: rgb(230, 173, 173);
   }
 
   10% {
 
-    color: #8e44ad;
+    color: #69188b;
   }
 
   20% {
 
-    color: #1abc9c;
+    color: #29665a;
   }
 
   30% {
 
-    color: #7afad8;
+    color: #49b699;
   }
 
   40% {
 
-    color: lightblue;
+    color: rgb(70, 72, 199);
   }
 
   50% {
 
-    color: #70b8ff;
+    color: #c217b9;
   }
 
   60% {
 
-    color: lightblue;
+    color: rgb(81, 136, 155);
   }
 
   70% {
 
-    color: #2980b9;
+    color: #0f486e;
   }
   80% {
 
